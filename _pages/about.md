@@ -22,9 +22,13 @@ Publications
 Teaching
 ======
 * Teaching Assistant, Introduction to Big Data Analytics in RUC, Fall 2023
+* Teaching Assistant, Ai Ethics and Safety, Spring 2024
 
 Honor
 ======
+* The Second Award of Graduate Study Scholarship in Gaoling School of Artificial Intelligence, Renmin University of China
 * Outstanding Graduate in Huazhong University of Science and Technology
 * Merit Student Scholarship in Huazhong University of Science and Technology
 * National Encouragement scholarship in Huazhong University of Science and Technology
+
+  
