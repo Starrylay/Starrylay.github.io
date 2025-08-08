@@ -34,7 +34,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
 - **Paragon: Parameter Generation for Controllable Multi-Task Recommendation**
 
- **Chenglei Shen**, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan
+  **Chenglei Shen**, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan
 
   **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2410.10639)
   
