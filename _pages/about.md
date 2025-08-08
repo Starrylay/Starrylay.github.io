@@ -72,7 +72,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 - *2025.07* FCS Excellent Young Computer Scientists Forum (top 2).
 - *2023.06* Outstanding Graduate in Huazhong University of Science and Technology.
 - *2021.10* Merit Student Scholarship in Huazhong University of Science and Technology.
-- 
+  
 # 📖 Educations
 - *2023.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2019.09 - 2023.06*, Bachelor. School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan.
