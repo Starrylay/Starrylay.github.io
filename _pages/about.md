@@ -21,7 +21,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum （top 2）in FCS**
+- *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum in FCS**
 - *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘Paragon: Parameter Generation for Controllable Multi-Task
 Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
 - *2025.06*: &nbsp;🎉🎉 Our paper ‘‘Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration’’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
