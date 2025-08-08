@@ -17,42 +17,72 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Huazhong University of Science and Technology([HUST](https://www.hust.edu.cn/)) in June 2023. My research interests include Large Language Model, Recommender System.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum （top 2）in FCS**
+- *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘Paragon: Parameter Generation for Controllable Multi-Task
+Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
+- *2025.06*: &nbsp;🎉🎉 Our paper ‘‘Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration’’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
+- *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is accepted by **([FCS](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5))**!
+- *2025.03*: &nbsp;🎉🎉 Our paper ‘‘MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment’’ is accepted by **([ACL 2025](https://2025.aclweb.org/))**!
+- *2024.05*: &nbsp;🎉🎉 My first-author paper ‘‘On the Decision-Making Abilities in Role-Playing using Large Language Models’’ is accepted by **([AAAI 2025 CMASDL Workshop](https://www.is3rlab.org/aaai25-cmasdl-workshop.github.io/))**!
+- *2023.08*: &nbsp;🎉🎉  My first-author paper ‘‘HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Paragon: Parameter Generation for Controllable Multi-Task Recommendation**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ **Chenglei Shen**, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2410.10639)
+  
+- **Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+  Weicong Qin, Yi Xu, Weijie Yu, **Chenglei Shen**, Xiao Zhang, Ming He, Jianping Fan,  Jun Xu
+
+  **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2409.06377?)
+  
+- **MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment**
+
+  Weicong Qin, Yi Xu, Weijie Yu, **Chenglei Shen**, Ming He, Jianping Fan, Xiao Zhang, Jun Xu
+
+  **ACL 2025** \| [Paper](https://arxiv.org/pdf/2503.01711?)
+  
+- **A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems**
+
+  **Chenglei Shen**, Xiao Zhang, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu
+
+  **FCS** \| **Excellent Young Computer Scientists Forum**\| [Paper](https://arxiv.org/pdf/2407.06083) 
+
+- **On the Decision-Making Abilities in Role-Playing using Large Language Models**
+
+  **Chenglei Shen**, Guofu Xie, Xiao Zhang, Jun Xu
+
+  **AAAI 2025 CMASDL Workshop** \| [Paper](https://arxiv.org/pdf/2402.18807) 
+
+- **HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation**
+
+  **Chenglei Shen**, Xiao Zhang, Wei Wei, Jun Xu
+
+  **CIKM 2023** \| [Paper](https://arxiv.org/pdf/2308.08497) 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07* FCS Excellent Young Computer Scientists Forum (top 2).
+- *2023.06* Outstanding Graduate in Huazhong University of Science and Technology.
+- *2021.10* Merit Student Scholarship in Huazhong University of Science and Technology.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📚 Academic Services
+- **Program Committee / Reviewer**: CIKM 2024, CIKM 2025, AAAI 2026
+- **Secondary Reviewer**: EMNLP 2024, NeurIPS 2024, ICML 2025, ACL 2025, NeurIPS 2025, TOIS
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+# 👩🏻‍🏫 Teaching
+- *Teaching Assistant,* Ai Ethics and Safety, Spring 2025
+- *Teaching Assistant,* Intelligent Information Retrieval, Fall 2024
+- *Teaching Assistant,* Ai Ethics and Safety, Spring 2024
+- *Teaching Assistant,* Introduction to Big Data Analytics, Renmin University of China, Fall 2023
+  
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [Lenovo](https://research.lenovo.com/), AI Research Institute, focusing on controllable recommender systems.
