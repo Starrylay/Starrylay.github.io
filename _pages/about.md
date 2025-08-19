@@ -62,7 +62,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 </p>
 
 <p>
-  <img src="../images/role.png" alt="role" width="100" align="left" style="margin-right:10px;"/>
+  <img src="../images/decision.png" alt="role" width="100" align="left" style="margin-right:10px;"/>
   <b>On the Decision-Making Abilities in Role-Playing using Large Language Models</b><br/>
   <b>Chenglei Shen</b>, Guofu Xie, Xiao Zhang, Jun Xu<br/>
   <b>AAAI 2025 CMASDL Workshop</b> | <a href="https://arxiv.org/pdf/2402.18807">Paper</a>
