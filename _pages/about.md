@@ -31,34 +31,15 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 - *2023.08*: &nbsp;🎉🎉  My first-author paper ‘‘HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
 # 📚 Publications
-
-<!-- 仅作用于带有 pub-img 类的图片，不影响页面其他内容 -->
-<style>
-  .pub-img {
-    display: block;
-    border-radius: 6px;
-    transition: transform 180ms ease, box-shadow 180ms ease, filter 180ms ease;
-    transform-origin: left center;
-    cursor: zoom-in;
-    position: relative;
-  }
-  .pub-img:hover {
-    transform: scale(1.06);
-    box-shadow: 0 8px 22px rgba(0,0,0,.18);
-    filter: saturate(1.05);
-    z-index: 1;
-  }
-  /* 无动画偏好时自动关闭动效（无障碍） */
-  @media (prefers-reduced-motion: reduce) {
-    .pub-img { transition: none; }
-    .pub-img:hover { transform: none; box-shadow: none; filter: none; }
-  }
-</style>
-
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
-      <img class="pub-img" src="../images/paragon.png" alt="paragon" style="width:130px; display:block;"/>
+      <img
+        src="../images/paragon.png" alt="paragon"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Paragon: Parameter Generation for Controllable Multi-Task Recommendation</b><br/>
@@ -69,7 +50,12 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
-      <img class="pub-img" src="../images/more.png" alt="more" style="width:130px; display:block;"/>
+      <img
+        src="../images/more.png" alt="more"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration</b><br/>
@@ -80,7 +66,12 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
-      <img class="pub-img" src="../images/maps.png" alt="maps" style="width:130px; display:block;"/>
+      <img
+        src="../images/maps.png" alt="maps"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</b><br/>
@@ -91,7 +82,12 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
-      <img class="pub-img" src="../images/survey.png" alt="survey" style="width:130px; display:block;"/>
+      <img
+        src="../images/survey.png" alt="survey"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems</b><br/>
@@ -102,7 +98,12 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
-      <img class="pub-img" src="../images/decision.png" alt="role" style="width:130px; display:block;"/>
+      <img
+        src="../images/decision.png" alt="role"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>On the Decision-Making Abilities in Role-Playing using Large Language Models</b><br/>
@@ -113,7 +114,12 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
-      <img class="pub-img" src="../images/hyperbandit.png" alt="hyperbandit" style="width:130px; display:block;"/>
+      <img
+        src="../images/hyperbandit.png" alt="hyperbandit"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation</b><br/>
