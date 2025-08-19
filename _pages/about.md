@@ -32,19 +32,19 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
 # 📝 Publications 
 
-![img](images/paragon.png) - **Paragon: Parameter Generation for Controllable Multi-Task Recommendation**
+![img](../images/paragon.png) - **Paragon: Parameter Generation for Controllable Multi-Task Recommendation**
 
   **Chenglei Shen**, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan
 
   **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2410.10639)
   
-![img](images/more.png)- **Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration**
+![img](../images/more.png)- **Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration**
 
   Weicong Qin, Yi Xu, Weijie Yu, **Chenglei Shen**, Xiao Zhang, Ming He, Jianping Fan,  Jun Xu
 
   **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2409.06377?)
   
-![img](images/maps.png)- **MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment**
+![img](../images/maps.png)- **MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment**
 
   Weicong Qin, Yi Xu, Weijie Yu, **Chenglei Shen**, Ming He, Jianping Fan, Xiao Zhang, Jun Xu
 
@@ -56,13 +56,13 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
   **FCS** \| **Excellent Young Computer Scientists Forum**\| [Paper](https://arxiv.org/pdf/2407.06083) 
 
-![img](images/role.png)- **On the Decision-Making Abilities in Role-Playing using Large Language Models**
+![img](../images/role.png)- **On the Decision-Making Abilities in Role-Playing using Large Language Models**
 
   **Chenglei Shen**, Guofu Xie, Xiao Zhang, Jun Xu
 
   **AAAI 2025 CMASDL Workshop** \| [Paper](https://arxiv.org/pdf/2402.18807) 
 
-![img](images/hyperbandit.png)- **HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation**
+![img](../images/hyperbandit.png)- **HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation**
 
   **Chenglei Shen**, Xiao Zhang, Wei Wei, Jun Xu
 
