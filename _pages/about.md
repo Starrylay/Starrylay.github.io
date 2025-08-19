@@ -31,42 +31,50 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 - *2023.08*: &nbsp;🎉🎉  My first-author paper ‘‘HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
 # 📝 Publications 
+# 📚 Publications
 
-![img](../images/paragon.png) - **Paragon: Parameter Generation for Controllable Multi-Task Recommendation**
+<p>
+  <img src="../images/paragon.png" alt="paragon" width="80" align="left" style="margin-right:10px;"/>
+  <b>Paragon: Parameter Generation for Controllable Multi-Task Recommendation</b><br/>
+  <b>Chenglei Shen</b>, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan<br/>
+  <b>Recsys 2025</b> | <a href="https://arxiv.org/pdf/2410.10639">Paper</a>
+</p>
 
-  **Chenglei Shen**, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan
+<p>
+  <img src="../images/more.png" alt="more" width="80" align="left" style="margin-right:10px;"/>
+  <b>Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration</b><br/>
+  Weicong Qin, Yi Xu, Weijie Yu, <b>Chenglei Shen</b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
+  <b>Recsys 2025</b> | <a href="https://arxiv.org/pdf/2409.06377?">Paper</a>
+</p>
 
-  **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2410.10639)
-  
-![img](../images/more.png)- **Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration**
+<p>
+  <img src="../images/maps.png" alt="maps" width="80" align="left" style="margin-right:10px;"/>
+  <b>MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</b><br/>
+  Weicong Qin, Yi Xu, Weijie Yu, <b>Chenglei Shen</b>, Ming He, Jianping Fan, Xiao Zhang, Jun Xu<br/>
+  <b>ACL 2025</b> | <a href="https://arxiv.org/pdf/2503.01711?">Paper</a>
+</p>
 
-  Weicong Qin, Yi Xu, Weijie Yu, **Chenglei Shen**, Xiao Zhang, Ming He, Jianping Fan,  Jun Xu
+<p>
+  <img src="../images/survey.png" alt="survey" width="80" align="left" style="margin-right:10px;"/>
+  <b>A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems</b><br/>
+  <b>Chenglei Shen</b>, Xiao Zhang, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu<br/>
+  <b>FCS</b> | <b>Excellent Young Computer Scientists Forum</b> | <a href="https://arxiv.org/pdf/2407.06083">Paper</a>
+</p>
 
-  **Recsys 2025** \| [Paper](https://arxiv.org/pdf/2409.06377?)
-  
-![img](../images/maps.png)- **MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment**
+<p>
+  <img src="../images/role.png" alt="role" width="80" align="left" style="margin-right:10px;"/>
+  <b>On the Decision-Making Abilities in Role-Playing using Large Language Models</b><br/>
+  <b>Chenglei Shen</b>, Guofu Xie, Xiao Zhang, Jun Xu<br/>
+  <b>AAAI 2025 CMASDL Workshop</b> | <a href="https://arxiv.org/pdf/2402.18807">Paper</a>
+</p>
 
-  Weicong Qin, Yi Xu, Weijie Yu, **Chenglei Shen**, Ming He, Jianping Fan, Xiao Zhang, Jun Xu
+<p>
+  <img src="../images/hyperbandit.png" alt="hyperbandit" width="80" align="left" style="margin-right:10px;"/>
+  <b>HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation</b><br/>
+  <b>Chenglei Shen</b>, Xiao Zhang, Wei Wei, Jun Xu<br/>
+  <b>CIKM 2023</b> | <a href="https://arxiv.org/pdf/2308.08497">Paper</a>
+</p>
 
-  **ACL 2025** \| [Paper](https://arxiv.org/pdf/2503.01711?)
-  
-![img](images/survey.png)- **A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems**
-
-  **Chenglei Shen**, Xiao Zhang, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu
-
-  **FCS** \| **Excellent Young Computer Scientists Forum**\| [Paper](https://arxiv.org/pdf/2407.06083) 
-
-![img](../images/role.png)- **On the Decision-Making Abilities in Role-Playing using Large Language Models**
-
-  **Chenglei Shen**, Guofu Xie, Xiao Zhang, Jun Xu
-
-  **AAAI 2025 CMASDL Workshop** \| [Paper](https://arxiv.org/pdf/2402.18807) 
-
-![img](../images/hyperbandit.png)- **HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation**
-
-  **Chenglei Shen**, Xiao Zhang, Wei Wei, Jun Xu
-
-  **CIKM 2023** \| [Paper](https://arxiv.org/pdf/2308.08497) 
 
 # 🎖 Honors and Awards
 - *2025.07* FCS Excellent Young Computer Scientists Forum (top 2).
