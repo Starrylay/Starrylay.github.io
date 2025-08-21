@@ -21,6 +21,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search’’ is accepted by **([EMNLP 2025](https://2025.emnlp.org/))**! 
 - *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum in FCS**
 - *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘Paragon: Parameter Generation for Controllable Multi-Task
 Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
@@ -32,6 +33,22 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
 # 📚 Publications
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
+   <tr style="border:none; background:none;">
+    <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
+      <img
+        src="../images/vaps.png" alt="vaps"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
+    </td>
+    <td style="vertical-align:top; border:none!important; background:none!important;">
+      <b>Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search</b><br/>
+      Weicong Qin, Yi Xu, Weijie Yu, Teng Shi <b>Chenglei Shen</b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
+      <b>Recsys 2025</b> | <a href="https://arxiv.org/pdf/2506.14437">Paper</a>
+    </td>
+  </tr>
+
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
       <img
