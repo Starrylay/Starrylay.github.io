@@ -21,13 +21,13 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search’’ is accepted by **([EMNLP 2025](https://2025.emnlp.org/))**! 
+- *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search’’ is accepted by **([EMNLP 2025 main](https://2025.emnlp.org/))**! 
 - *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum in FCS**
 - *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘Paragon: Parameter Generation for Controllable Multi-Task
 Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
 - *2025.06*: &nbsp;🎉🎉 Our paper ‘‘Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration’’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys25/))**! 
 - *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is accepted by **([FCS](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5))**!
-- *2025.03*: &nbsp;🎉🎉 Our paper ‘‘MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment’’ is accepted by **([ACL 2025](https://2025.aclweb.org/))**!
+- *2025.03*: &nbsp;🎉🎉 Our paper ‘‘MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment’’ is accepted by **([ACL 2025 main](https://2025.aclweb.org/))**!
 - *2024.05*: &nbsp;🎉🎉 My first-author paper ‘‘On the Decision-Making Abilities in Role-Playing using Large Language Models’’ is accepted by **([AAAI 2025 CMASDL Workshop](https://www.is3rlab.org/aaai25-cmasdl-workshop.github.io/))**!
 - *2023.08*: &nbsp;🎉🎉  My first-author paper ‘‘HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
