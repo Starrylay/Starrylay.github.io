@@ -45,7 +45,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search</b><br/>
       Weicong Qin, Yi Xu, Weijie Yu, Teng Shi <b>Chenglei Shen</b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
-      <b>Recsys 2025</b> | <a href="https://arxiv.org/pdf/2506.14437">Paper</a>
+      <b>EMNLP 2025</b> | <a href="https://arxiv.org/pdf/2506.14437">Paper</a>
     </td>
   </tr>
 
