@@ -34,6 +34,22 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 
 # 📚 Publications
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
+  <tr style="border:none; background:none;">
+    <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
+      <img
+        src="../images/TOIS.png" alt="TOIS"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
+    </td>
+    <td style="vertical-align:top; border:none!important; background:none!important;">
+      <b>Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations</b><br/>
+      <b>Chenglei Shen</b>, Yi Zhan, Weijie Yu, Xiao Zhang, Jun Xu<br/>
+      <b>TOIS</b> | <b>comming soon</b> 
+    </td>
+  </tr>
+
    <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
       <img
