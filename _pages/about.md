@@ -21,7 +21,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper ‘‘Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations’’ is accepted by **([TOIS](https://2025.emnlp.org/))**! 
+- *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations’’ is accepted by **([TOIS](https://2025.emnlp.org/))**! 
 - *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search’’ is accepted by **([EMNLP 2025](https://2025.emnlp.org/))**! 
 - *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum in FCS**
 - *2025.06*: &nbsp;🎉🎉 My first-author paper ‘‘Paragon: Parameter Generation for Controllable Multi-Task
