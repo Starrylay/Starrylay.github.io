@@ -21,6 +21,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘StyliTruth: Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering’’ is accepted by **([ICLR 2026](https://iclr.cc/))**! 
 - *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations’’ is accepted by **([TOIS](https://2025.emnlp.org/))**! 
 - *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search’’ is accepted by **([EMNLP 2025](https://2025.emnlp.org/))**! 
 - *2025.07*: &nbsp;🎉🎉 My first-author paper ‘‘A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems’’ is selected for the **Excellent Young Computer Scientists Forum in FCS**
@@ -33,7 +34,25 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
 - *2023.08*: &nbsp;🎉🎉  My first-author paper ‘‘HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
 # 📚 Publications
+
+
 <table style="width:100%; border-collapse:collapse; border-spacing:0 18px; border:none; background:none;">
+   <tr style="border:none; background:none;">
+    <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
+      <img
+        src="../images/stylitruth.png" alt="vaps"
+        style="width:130px; display:block; border-radius:6px; transition:transform 180ms ease, box-shadow 180ms ease, filter 180ms ease; transform-origin:left center;"
+        onmouseover="this.style.transform='scale(1.06)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,.18)'; this.style.filter='saturate(1.05)'; this.style.zIndex='1';"
+        onmouseout="this.style.transform=''; this.style.boxShadow=''; this.style.filter=''; this.style.zIndex='';"
+      />
+    </td>
+    <td style="vertical-align:top; border:none!important; background:none!important;">
+      <b>StyliTruth: Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering</b><br/>
+      <b>Chenglei Shen</b>, Zhongxiang Sun, Teng Shi, Xiao Zhang, Jun Xu<br/>
+      <b>ICLR 2026</b> | <a href="https://arxiv.org/pdf/2508.04530?">Paper</a>
+    </td>
+  </tr>
+  
   <tr style="border:none; background:none;">
     <td style="width:150px; vertical-align:top; border:none!important; background:none!important;">
       <img
