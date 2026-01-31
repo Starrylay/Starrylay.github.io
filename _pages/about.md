@@ -145,7 +145,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems</b><br/>
       <b><u>Chenglei Shen</u></b>, Xiao Zhang, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu<br/>
-      <b>FCS</b> | <b>Excellent Young Computer Scientists Forum Paper!</b> | <a href="https://arxiv.org/pdf/2407.06083">Paper</a>
+      <b>FCS</b> | <b style="color:#d60000;">Excellent Young Computer Scientists Forum Paper!</b> | <a href="https://arxiv.org/pdf/2407.06083">Paper</a>
     </td>
   </tr>
 
