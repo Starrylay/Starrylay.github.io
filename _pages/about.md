@@ -48,7 +48,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>StyliTruth: Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering</b><br/>
-      <b>Chenglei Shen</b>, Zhongxiang Sun, Teng Shi, Xiao Zhang, Jun Xu<br/>
+      <b><u>Chenglei Shen</u></b>, Zhongxiang Sun, Teng Shi, Xiao Zhang, Jun Xu<br/>
       <b>ICLR 2026</b> | <a href="https://arxiv.org/pdf/2508.04530?">Paper</a>
     </td>
   </tr>
@@ -64,7 +64,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations</b><br/>
-      <b>Chenglei Shen</b>, Yi Zhan, Weijie Yu, Xiao Zhang, Jun Xu<br/>
+      <b><u>Chenglei Shen</u></b>, Yi Zhan, Weijie Yu, Xiao Zhang, Jun Xu<br/>
       <b>TOIS</b> | <b>comming soon</b> 
     </td>
   </tr>
@@ -80,7 +80,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search</b><br/>
-      Weicong Qin, Yi Xu, Weijie Yu, Teng Shi <b>Chenglei Shen</b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
+      Weicong Qin, Yi Xu, Weijie Yu, Teng Shi <b><u>Chenglei Shen</u></b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
       <b>EMNLP 2025 main</b> | <a href="https://arxiv.org/pdf/2506.14437">Paper</a>
     </td>
   </tr>
@@ -96,7 +96,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Paragon: Parameter Generation for Controllable Multi-Task Recommendation</b><br/>
-      <b>Chenglei Shen</b>, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan<br/>
+      <b><u>Chenglei Shen</u></b>, Jiahao Zhao, Xiao Zhang, Weijie Yu, Ming He, Jianping Fan<br/>
       <b>Recsys 2025</b> | <a href="https://arxiv.org/pdf/2410.10639">Paper</a>
     </td>
   </tr>
@@ -112,7 +112,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration</b><br/>
-      Weicong Qin, Yi Xu, Weijie Yu, <b>Chenglei Shen</b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
+      Weicong Qin, Yi Xu, Weijie Yu, <b><u>Chenglei Shen</u></b>, Xiao Zhang, Ming He, Jianping Fan, Jun Xu<br/>
       <b>Recsys 2025</b> | <a href="https://arxiv.org/pdf/2409.06377?">Paper</a>
     </td>
   </tr>
@@ -128,7 +128,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</b><br/>
-      Weicong Qin, Yi Xu, Weijie Yu, <b>Chenglei Shen</b>, Ming He, Jianping Fan, Xiao Zhang, Jun Xu<br/>
+      Weicong Qin, Yi Xu, Weijie Yu, <b><u>Chenglei Shen</u></b>, Ming He, Jianping Fan, Xiao Zhang, Jun Xu<br/>
       <b>ACL 2025 main</b> | <a href="https://arxiv.org/pdf/2503.01711?">Paper</a>
     </td>
   </tr>
@@ -144,7 +144,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>A Survey of Controllable Learning: Methods and Applications in Information Retrieval and Recommender Systems</b><br/>
-      <b>Chenglei Shen</b>, Xiao Zhang, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu<br/>
+      <b><u>Chenglei Shen</u></b>, Xiao Zhang, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu<br/>
       <b>FCS</b> | <b>Excellent Young Computer Scientists Forum Paper!</b> | <a href="https://arxiv.org/pdf/2407.06083">Paper</a>
     </td>
   </tr>
@@ -160,7 +160,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>On the Decision-Making Abilities in Role-Playing using Large Language Models</b><br/>
-      <b>Chenglei Shen</b>, Guofu Xie, Xiao Zhang, Jun Xu<br/>
+      <b><u>Chenglei Shen</u></b>, Guofu Xie, Xiao Zhang, Jun Xu<br/>
       <b>AAAI 2025 CMASDL Workshop</b> | <a href="https://arxiv.org/pdf/2402.18807">Paper</a>
     </td>
   </tr>
@@ -176,7 +176,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     </td>
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>HyperBandit: Contextual Bandit with Hypernetwork for Time-Varying User Preferences in Streaming Recommendation</b><br/>
-      <b>Chenglei Shen</b>, Xiao Zhang, Wei Wei, Jun Xu<br/>
+      <b><u>Chenglei Shen</u></b>, Xiao Zhang, Wei Wei, Jun Xu<br/>
       <b>CIKM 2023</b> | <a href="https://arxiv.org/pdf/2308.08497">Paper</a>
     </td>
   </tr>
