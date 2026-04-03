@@ -52,7 +52,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Adapting Model Editing for Generative Recommendation with Cold-Start Items</b><br/>
       <b><u>Chenglei Shen</u></b>, Teng Shi, Weijie Yu, Xiao Zhang, Jun Xu<br/>
-      <b>SIGIR</b> | <a href="https://arxiv.org/pdf/2603.14259">Paper</a>
+      <b>SIGIR 2026</b> | <a href="https://arxiv.org/pdf/2603.14259">Paper</a>
     </td>
   </tr>
   
@@ -84,7 +84,7 @@ Recommendation’ is accepted by **([RecSys 2025](https://recsys.acm.org/recsys2
     <td style="vertical-align:top; border:none!important; background:none!important;">
       <b>Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations</b><br/>
       <b><u>Chenglei Shen</u></b>, Yi Zhan, Weijie Yu, Xiao Zhang, Jun Xu<br/>
-      <b>TOIS</b> |  <a href="https://dl.acm.org/doi/epdf/10.1145/3793543">Paper</a>
+      <b>TOIS 2026</b> |  <a href="https://dl.acm.org/doi/epdf/10.1145/3793543">Paper</a>
     </td>
   </tr>
 
