@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Assoc. Prof.[Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Huazhong University of Science and Technology([HUST](https://www.hust.edu.cn/)) in June 2023 and supervised by Prof. [Wei Wei](https://scholar.google.com/citations?hl=zh-CN&user=_JaPEsAAAAAJ&view_op=list_works) in Cognitive Computing and Intelligent Information Processing Laboratory ([CCIIP Lab](http://cciip.cs.hust.edu.cn/index.htm)). My research interests include Large Language Model, Recommender System.
+I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Assoc. Prof.[Xiao Zhang](https://scholar.google.com/citations?user=5FZ6wbAAAAAJ&hl=zh-CN) and Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Huazhong University of Science and Technology([HUST](https://www.hust.edu.cn/)) in June 2023 and supervised by Prof. [Wei Wei](https://scholar.google.com/citations?hl=zh-CN&user=_JaPEsAAAAAJ&view_op=list_works) in Cognitive Computing and Intelligent Information Processing Laboratory ([CCIIP Lab](http://cciip.cs.hust.edu.cn/index.htm)). My research interests include Large Language Model, Recommender System.
 
 
 # 🔥 News
-
+- *2026.04*: &nbsp;🎉🎉 Our paper ‘‘When Personalization Misleads: Understanding and Mitigating Hallucinations in Personalized LLMs’’ is accepted by **([ACL 2026](https://2026.aclweb.org/))**! 
 - *2026.04*: &nbsp;🎉🎉 My first-author paper ‘‘Adapting Model Editing for Generative Recommendation with Cold-Start Items’’ is accepted by **([SIGIR 2026](https://sigir2026.org/en-AU))**! 
 - *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘StyliTruth: Unlocking Stylized yet Truthful LLM Generation via Disentangled Steering’’ is accepted by **([ICLR 2026](https://iclr.cc/))**! 
 - *2026.01*: &nbsp;🎉🎉 My first-author paper ‘‘Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations’’ is accepted by **([TOIS](https://2025.emnlp.org/))**! 
